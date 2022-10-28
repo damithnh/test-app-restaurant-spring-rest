@@ -3,6 +3,9 @@
 APIs
 
 /restaurants/
+
 /restaurants/{id}
+
 /orders/
+
 /orders/{id}
